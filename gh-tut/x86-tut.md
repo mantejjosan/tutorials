@@ -60,11 +60,12 @@ gh auth login
 
 ### Step 2: Choose Authentication Method
 
-When prompted, choose "GitHub" from the options for GitHub and GitHub Enterprise.
+When prompted, choose "GitHub" among the options: GitHub or GitHub Enterprise.
 
 ![Choose GitHub](images/authenticate-1.PNG)
+
 now choose login with web browser from the option next.
-![choose browser](authenticate-2.PNG)
+![choose browser](images/authenticate-2.PNG)
 
 ### Step 3: Copy the One-Time Code
 
