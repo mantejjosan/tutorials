@@ -62,6 +62,7 @@ It should look like this:
 
 ![final result](images/2.PNG)
 
+
 # FAQ
 
 <details>
@@ -89,4 +90,14 @@ Steps:
 3. Set the action to open a specific URL or trigger an action in your document.
 
 Firefox: Use Shortkeys or a similar extension.
+</details>
+
+
+<details>
+  <summary>
+    <h2>2. How to use it?</h2>
+  </summary>
+
+  **Simply click on the newly created `Timestamp Tools` tab** in the above home panel as shown in the above image<be>
+  and choose `Insert Timestamp`
 </details>
