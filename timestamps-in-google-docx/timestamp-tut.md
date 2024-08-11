@@ -100,4 +100,6 @@ Firefox: Use Shortkeys or a similar extension.
 
   **Simply click on the newly created `Timestamp Tools` tab** in the above home panel as shown in the above image<be>
   and choose `Insert Timestamp`
+
+  
 </details>
