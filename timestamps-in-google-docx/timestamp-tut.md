@@ -10,7 +10,7 @@ Open the Google Doc where you want to insert timestamps.
 
 <u>Access Apps Script:</u>
 Go to Extensions > Apps Script.
-![extensions menu](images/IMG_20240810_1234506.jpg)
+![extensions menu](images/1.jpg)
 
 
 <u>Create a New Script:</u>
@@ -27,7 +27,7 @@ Delete any code in the script editor and paste the following javascript code:
 >   // Insert the timestamp at the cursor position
 >   var cursor = doc.getCursor();
 >   if (cursor) {
->     cursor.insertText(timestamp);
+>     cursor.insertText("["+timestamp+"]");
 >   } else {
 >     // If no cursor, append the timestamp at the end of the document
 >     body.appendParagraph(timestamp);
