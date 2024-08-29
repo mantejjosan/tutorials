@@ -4,15 +4,15 @@ This tutorial will guide you through the process of forking, installing, and sta
 
 ## Repository
 
-We are working with the following repository:  
-[https://github.com/hsrai/library_management_system](https://github.com/hsrai/library_management_system)
+We are working with the following repository:
+[https://github.com/GreatDevelopers/library_management_system](https://github.com/GreatDevelopers/library_management_system)
 
 ## Step 1: Fork the Repository
 
 Use the following command to fork the repository:
 
 ```
-gh repo fork https://github.com/hsrai/library_management_system
+gh repo fork https://github.com/GreatDevelopers/library_management_system
 ```
 
 If you haven't set up an SSH key with GitHub CLI, use the following command:
@@ -30,7 +30,7 @@ gh auth login
 Use this command to clone the app:
 
 ```
-bench get-app https://github.com/hsrai/library_management_system
+bench get-app https://github.com/GreatDevelopers/library_management_system
 ```
 
 ## Step 3: Install the App
@@ -54,6 +54,6 @@ Now you can start working on your doctypes and make commits.
 ## Important Notes
 
 1. When you're ready to submit your changes, send a pull request to your forked repository.
-2. After reviewing your changes in your fork, create a pull request to the original repository (sir's repo).
+2. After reviewing your changes in your fork, create a pull request to the original repository (GreatDevelopers' repo).
 
 Happy developing!
