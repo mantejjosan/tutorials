@@ -6,6 +6,7 @@ This repo contains the links to text-based tutorials I made on what I learned in
 2. [Display Mathematical Notations Using MathJax](https://mantejjosan.github.io/math-made-easy/tut)
 3. [Live Report Better Using Timestamps!](https://mantejjosan.github.io/tutorials/timestamps-in-google-docx/timestamp-tut)
 4. [How to Work Collaboratively on LMS App on Github]( https://mantejjosan.github.io/tutorials/CollaborateOnGithub/ForkInstallDevelop)
+5. [Set Up SSH Key for Git](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/SetUpSshKey)
 # Links
 - Github Profile: [@mantejjosan](mantejjosan.github.io)
   
