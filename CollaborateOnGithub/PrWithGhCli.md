@@ -19,8 +19,13 @@ After forking the repository, you can clone it to your local machine:
 ```bash
 gh repo clone <your-forked-repo-ssh-link>
 ```
-
 Replace `<your-forked-repo-ssh-link>` with the SSH link of your forked repository.
+
+> *NOTE: As per our need for frappe we are asked to clone using
+> ```
+> bench get-app git@github.com:GreatDevelopers/library_management_system.git
+> ```
+
 
 #### Cloning a Specific Branch
 
