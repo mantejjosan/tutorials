@@ -7,6 +7,10 @@ This repo contains the links to text-based tutorials I made on what I learned in
 3. [Live Report Better Using Timestamps!](https://mantejjosan.github.io/tutorials/timestamps-in-google-docx/timestamp-tut)
 4. [How to Work Collaboratively on LMS App on Github]( https://mantejjosan.github.io/tutorials/CollaborateOnGithub/ForkInstallDevelop)
 5. [Set Up SSH Key for Git](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/SetUpSshKey)
+6. [Live Report Using Google Forms+Sheets](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/MakeLiveReport)
+7. [How to Make PR With Github CLI and git](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/PrWithGhCli)
+8. [How To Make Documentation of LMS App](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/HowToDocument)
+   
 # Links
 - Github Profile: [@mantejjosan](mantejjosan.github.io)
   
