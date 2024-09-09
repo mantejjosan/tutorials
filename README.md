@@ -13,5 +13,5 @@ This repo contains the links to text-based tutorials I made on what I learned in
 9. [How to Start Making Doctypes in gd_workshops for Hackathon](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/ForkInstallDevelop)
    
 # Links
-- Github Profile: [@mantejjosan](github.com/mantejjosan)
+- Github Profile: [@mantejjosan](https://github.com/mantejjosan)
   
