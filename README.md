@@ -12,6 +12,7 @@ This repo contains the links to text-based tutorials I made on what I learned in
 8. [How To Make Documentation of LMS App](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/HowToDocument)
 9. [How to Start Making Doctypes in gd_workshops for Hackathon](https://mantejjosan.github.io/tutorials/CollaborateOnGithub/ForkInstallDevelop)
 10. [Deploy On Vercel](https://mantejjosan.github.io/tutorials/sih/deployonvercel)
+11. [How to Set Up a Persistent Live USB with Linux, Nginx, and Frappe](https://mantejjosan.github.io/tutorials/webserver/persistentliveusb.md)
    
 # Links
 - Github Profile: [@mantejjosan](https://github.com/mantejjosan)
