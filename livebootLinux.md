@@ -27,14 +27,17 @@ Before starting, ensure you have:
 ## 🎎 **Step 2: Download the Kali Linux ISO** 📂  
 
 1. 🧭 **Visit the official Kali Linux website**:  
-   👉 [https://www.kali.org/get-kali/](https://www.kali.org/get-kali/)  
-   *(Feel free to substitute with another Linux distro if desired.)*  
+   👉 [https://www.kali.org/get-kali/](https://www.kali.org/get-kali/)
+   > *(Feel free to substitute with another Linux distro if desired.)*
 
-2. 📥 **Choose the ISO file**:  
+   👉 Then click on live kali option.
+   👉 If you couldn't find it just go [here](https://www.kali.org/get-kali/#kali-live)
+
+3. 📥 **Choose the ISO file**:  
    - **Regular use**: Standard Kali ISO.  
    - **Lightweight systems**: Kali Light ISO.  
 
-3. 🛡️ **Verify the ISO integrity**: *(You can skip this step)*
+4. 🛡️ **Verify the ISO integrity**: *(You can skip this step)*
    Use a checksum tool to confirm the file is untampered. For example:  
    ```bash
    sha256sum kali-linux.iso
@@ -69,7 +72,8 @@ Before starting, ensure you have:
 1. **Insert the bootable USB into your computer**.  
 
 2. **Reboot and enter BIOS/UEFI settings**:  
-   - Tap keys like `F2`, `F12`, `DEL`, or `ESC` during startup (varies by manufacturer).  
+   - Tap keys like `F2`, `F12`, `DEL`, or `ESC` during startup (varies by manufacturer).
+   - You can google your laptop's boot menu key if you are unsure.
 
 3. **Change the boot priority**:  
    - Move your USB drive to the top of the boot order list.  
@@ -101,3 +105,7 @@ Before starting, ensure you have:
 You've successfully converted your USB into a bootable Linux drive and entered the realm of Linux Live Mode. 🌟 Stay curious and explore the endless possibilities! 🌌  
 
 > 🖤 **"With great power comes great responsibility."** Use your tools wisely and ethically.
+
+---
+
+### Checkout More Useful Tutorials at [@mantejjosan](https://mantejjosan.github.io/tutorials]
