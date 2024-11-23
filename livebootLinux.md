@@ -1,6 +1,5 @@
 # 🌟 **Live Booting Kali Linux - The Fun Adventure!** 🎌🐧
 
----
 
 By the end of this tutorial, you'll transform an ordinary USB drive into a bootable device and boot into the world of Kali Linux (or any Linux distro of your choice). Let’s dive into the details! 💻⚔️
 
@@ -13,7 +12,6 @@ You will:
 3. **Flash the ISO onto the USB drive.**  
 4. **Boot from the USB to explore Linux Live Mode.**  
 
----
 
 ## 🚀 **Step 1: Gather Your Tools** 🛠️  
 
@@ -22,7 +20,6 @@ Before starting, ensure you have:
 - 🖥️ **A computer**: Your partner in this mission.  
 - 🌐 **Internet connection**: To download the Linux ISO and Balena Etcher.  
 
----
 
 ## 🎎 **Step 2: Download the Kali Linux ISO** 📂  
 
@@ -43,7 +40,6 @@ Before starting, ensure you have:
    sha256sum kali-linux.iso
    ```  
 
----
 
 ## 🔮 **Step 3: Make Your USB Bootable** 💿  
 
@@ -65,7 +61,6 @@ Before starting, ensure you have:
 5. 🌈 **Wait for the process to complete**:  
    Balena Etcher will verify the flash to ensure everything is perfect.  
 
----
 
 ## 🛡️ **Step 4: Boot from the USB** 🌌  
 
@@ -82,7 +77,6 @@ Before starting, ensure you have:
 4. **Boot into the USB**:  
    - Select the live boot option from the menu when prompted.  
 
----
 
 ## 🌠 **Explore Linux Live Mode!** 🐧  
 
@@ -90,7 +84,6 @@ Before starting, ensure you have:
 - You can try out the tools and environment without installing anything on your system.  
 - **Pro Tip**: Run `sudo apt update && sudo apt upgrade` to update the live environment for the session.  
 
----
 
 ## ⚔️ **Bonus Tips** 🌈  
 
@@ -98,7 +91,7 @@ Before starting, ensure you have:
 - 🕶️ **Stay Ethical**: Use Kali Linux responsibly for cybersecurity and ethical hacking.  
 - 🎯 **Try Other Distros**: Distros like Ubuntu or Fedora can be flashed similarly.  
 
----
+
 
 ## 🥳 **Congratulations! You Did It!** 🎉  
 
@@ -106,6 +99,5 @@ You've successfully converted your USB into a bootable Linux drive and entered t
 
 > 🖤 **"With great power comes great responsibility."** Use your tools wisely and ethically.
 
----
 
 ### Checkout More Useful Tutorials at [@mantejjosan](https://mantejjosan.github.io/tutorials)
