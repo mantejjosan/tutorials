@@ -108,4 +108,4 @@ You've successfully converted your USB into a bootable Linux drive and entered t
 
 ---
 
-### Checkout More Useful Tutorials at [@mantejjosan](https://mantejjosan.github.io/tutorials]
+### Checkout More Useful Tutorials at [@mantejjosan](https://mantejjosan.github.io/tutorials)
