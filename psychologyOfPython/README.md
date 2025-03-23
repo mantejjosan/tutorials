@@ -4,6 +4,7 @@ It took nature a hundred million years to go from water to land,
 but only a hundred to go from here to Mars.
 
 Every civilization builds on top of the knowledge and resources acquired by its ancestors, compounding their quality of life.  
+
 Programming languages have evolved no differently. We went from magnetic tapes to binary, from assembly to C, and now we stand at Python.
 
 I call this **layering** — and once you see it, you will find it everywhere.
@@ -28,10 +29,10 @@ n = int(input("num: "))
 copy = n 
 sum = 0
 
-digits = int(math.log10(n)) + 1
+len = int(math.log10(n)) + 1
 
 while n != 0:
-    sum += (n % 10) ** digits
+    sum += (n % 10) ** len
     n //= 10
 
 print("Armstrong" if copy == sum else "Not Armstrong")
@@ -40,10 +41,10 @@ print("Armstrong" if copy == sum else "Not Armstrong")
 While this solution uses Python, it still thinks like a C++ developer—extracting digits manually. Now, let’s see how a more Pythonic approach simplifies it.
 
 ```python
-num = input("num: ")
+num = input("num: ")  # A string input
 
 len = len(num)
-sum = sum(int(digit) ** len for digit in str(num))
+sum = sum(int(digit) ** len for digit in num)
 
 print("Not Armstrong" if sum != int(num) else "Armstrong")
 ```
@@ -125,7 +126,10 @@ def count_vowels(sentence):
     return sum([sentence.count(vowel) for vowel in "aeiouAEIOU"])
 ```
 
-> Exercise: Find the redundancy in the above code for counting vowels in a string.Bonus: Here is the same code in a simpler way:
+> Exercise: Find the redundancy in the above code for counting vowels in a string.
+
+
+> Bonus: Here is the same code in a simpler way:
 
 ```python
 sentence = input("Enter a sentence: ")
@@ -136,6 +140,11 @@ def count_vowels(sentence):
 
 ## Conclusion
 
-Ponder.
+Ponder. 
+Read existing code written in python from your friends, in a competition, from documentation or anywhere else. 
+
+Once you have some basic knowledge make some projects(trust me its the best way to learn).
+
+Checkout this [video](https://youtu.be/Yh5gcLG6C3Q) to see what can you make with python
 
 ---
