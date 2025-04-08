@@ -1,4 +1,9 @@
+# Setup SSH key for using github from CLI
+
 Setting up an SSH key for Git is a straightforward process. 
+- If you are ***on windows*** open **Git Bash** and follow the process in there.  
+-  If you are using linux then just open the terminal and you'd be good to go.  
+
 
 ### Step 1: Check for Existing SSH Keys
 First, check if you already have an SSH key on your system:
