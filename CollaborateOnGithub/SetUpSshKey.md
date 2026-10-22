@@ -37,8 +37,10 @@ If you don’t have an SSH key or want to create a new one, follow these steps:
    ```
    A passphrase adds an extra layer of security, but you can leave it empty if you prefer.
 
-### Step 3: Add the SSH Key to the SSH Agent
-To ensure the SSH key is used automatically, add it to the SSH agent:
+### Step 3: Add the SSH Key to the SSH Agent (Recommended If a Passphrase was Set)
+In order to enter the passphrase only once per Windows or Linux session the generated key must be added to the SSH-agent, which will keep the decrypted key in memory after you enter the passphrase once. Otherwise, you will have to enter the passphrase for every commit. 
+
+Hence, to ensure the SSH key is used automatically, add it to the SSH agent:
 
 1. **Start the SSH Agent:**
    ```bash
@@ -100,3 +102,6 @@ Now that your SSH key is set up, you can push your changes:
    ```
 
 This should work without asking for a username or password since you're using SSH. If you encounter any issues or error messages during this process, let me know!
+
+## How to clone private repo?
+Using SSH allows to clone a private repo and a public repo. Another way is to use PAT (Personal Access Token) but SSH is much simpler. Once you have this set up you will never have to worry about generating PATs after they expire.
